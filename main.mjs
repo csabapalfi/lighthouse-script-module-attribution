@@ -1,3 +1,4 @@
+// half a second work
 const start = Date.now();
 while (Date.now() - start < 500) {
   let s = '';
